@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tVariableTable>
+    <variables>
+        <id>14146b78-9ffb-486d-ad23-7e5248748753</id>
+        <name>Knapp</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="0">I1</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>273cdd88-6323-49ab-bea5-4cd6d631ae7d</id>
+        <name>Grønn</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="0">Q1</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>bbe5f27d-daaf-4335-9b9d-e599897311b0</id>
+        <name>Gul</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="1">Q2</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>81e75e88-ae87-49b6-8e83-a73e652eaaba</id>
+        <name>Rød</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="2">Q3</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>2a13443c-5057-46e0-ac6d-a7f4c3df8b51</id>
+        <name>Alarm</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="130">Q</blockType>
+        <blockNum realvalue="3">Q4</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>27eeb345-e66b-47e2-a353-f8ff8bbc76a3</id>
+        <name>Vektcelle</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="129">I</blockType>
+        <blockNum realvalue="1">I2</blockNum>
+        <type realvalue="1">Bit</type>
+        <length realvalue="1">1</length>
+    </variables>
+</tVariableTable>

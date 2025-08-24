@@ -1,0 +1,127 @@
+﻿.PCsCADProject 'C:\Users\trfaa001\OneDrive - Osloskolen\Trym Falkenhaug\2ELR\Automatiseringssystemer\PC Schematic\Prosjekt2.PRO' V23.0 1 257 1463049923 '20-09-2023 11:54:14' 2 2500 500 2500 500 2000 Standard 1 "" "" 37 0
+.Title Motorstyring 0
+.Born 2 2 23.0 1463049276
+
+.xyz 0
+
+.AppData [SpecialSection]
+.AppData UseTextSettingsInProject=1
+.AppData UseTextSettingsNoFreeTexts=1
+.AppData [IEC/EN_61175_PreTexts]
+.AppData SignalRefPreText=/
+.AppData SymbolRefPreText=/
+.AppData CrossRefPreText=/
+.AppData [LastDB]
+.AppData DatabaseOn=Yes
+.AppData DatabaseFile=PCsComponents.mdb
+.AppData DbAlias=
+.AppData DBTable=Components
+.AppData SymbolRef=RefIDIec
+.AppData Description=DescriptNO
+.AppData Preview=Picture
+.AppData [LineDataFields]
+.AppData '000={"Name":"RoutingClass","Expression":"","Visible":false,"DisplayOrder":0,"Items":["Power","Signal"]}'
+.AppData [SymbolDataFields]
+.AppData '0000={"Name":"Setting","Expression":"","Visible":false,"DisplayOrder":1,"Items":[]}'
+.AppData '0001={"Name":"Segregation","Expression":"","Visible":false,"DisplayOrder":0,"Items":[]}'
+.AppData [LineGap]
+.AppData LineGapStatus=0
+.AppData [RefID]
+.AppData 'SyntaxEx={"Delimiters":["dot"],"Sets":[["F"],["L"],["P"]],"Prefixes":["F,=","L,+","P,-"]}'
+.AppData 'ImportSyntax={"Delimiters":["dot"],"Sets":[["F"],["L"],["P"]],"Prefixes":["F,=","L,+","P,-"]}'
+.AppData [Application]
+.AppData ApplicationType=Automation
+.AppData SavedInMainVersion=23.0
+.AppData SavedInBuildVersion=23.0.5.18
+.AppData [PortalOptions]
+.AppData UsePortal=-1
+
+.Revision 0 0
+
+.LayTab 0 'Lag 0' 1
+.LayTab 1 'Lag 1' 1
+
+.LsTab 0 0 Line-HW 16000 HW 0 2000 1 1
+.LsTab 0 1 Line-X 16000 X 0 2000 1 0
+.LsTab 0 2 Circle 16000 "" 0 2000 2 1
+.LsTab 0 3 Line-L 16000 L 0 2000 1 0
+.LsTab 0 4 Line-// 16000 // 0 2000 1 0
+
+.DefText .TextVis¤¤¤¤ 0 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .FieldVis¤¤¤¤ 0 0 0 0 0 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .NAMEVis¤¤¤¤ 1250 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .TypInv¤¤¤¤ 1250 2500 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .ArtInv¤¤¤¤ 1250 -4000 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .FuncVis¤¤¤¤ 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .PINNAMEVis¤¤¤¤ 0 1000 0 0 6252327 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .PinFuncVis¤¤¤¤ 0 -2750 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText '.PinLabVis¤¤12  %s.%s$$2   %s¤¤' 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .PinDesVis¤¤¤¤ 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText '.SignalRefVis¤¤12  %s.%s¤¤' 0 -3000 0 0 6252327 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText '.SingleRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 6252327 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText '.MultiRefVis¤¤12  %s.%s$$2   %s¤¤' 0 -3000 0 0 6252327 25 0 6 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .XRefVis¤¤¤¤ 0 0 0 0 6252327 20 0 4 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .YRefVis¤¤¤¤ 0 0 0 0 6252327 20 0 4 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .LnameInv¤¤¤¤ 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .LtypInv¤¤¤¤ 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .LartInv¤¤¤¤ 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+.DefText .LfuncInv¤¤¤¤ 0 0 0 0 0 25 0 0 0 0 0 2 0 0 0 0 0 0 0 0
+
+.WireNoSetup 0 WIRENO 0 0 0 2 / 0 ""
+.ContactRefSetup 0 6 12 3 10000 1000 100
+
+.RefDispFormat FLN|FLN
+
+.ProText 'Project number' "" -1 ""
+.ProText 'Customer name' "" -1 ""
+.ProText Address "" -1 ""
+.ProText 'Postal code' "" -1 ""
+.ProText City "" -1 ""
+.ProText 'Telephone no.' "" -1 ""
+.ProText 'Company www' "" -1 ""
+.ProText Revision "" -1 ""
+.ProText Engineer "" -1 ""
+.ProText PrRev01 "" -1 ""
+.ProText PrRev02 "" -1 ""
+
+.PageText 'Drawing no.' "" -1 ""
+.PageText Date "" -1 ""
+.PageText Constructor "" -1 ""
+.PageText DCC "" -1 ""
+.PageText Engineer "" -1 ""
+.PageText 'Approved by' "" -1 ""
+.PageText 'Approved date' "" -1 ""
+.PageText PaRev01 "" -1 ""
+.PageText PaRev02 "" -1 ""
+
+.Database ComponentID;Manufacturer;ManufacturersArticleNumber;ManufacturersGTIN;HistoricalArticleNumber;HistoricalArticleNumber2;Type;usrDatasheet;Picture;usrFavoriteSupplier;DescriptUK;DescriptDK;DescriptCZ;DescriptCN;DescriptDE;DescriptES;DescriptFR;DescriptHU;DescriptHR;DescriptIT;DescriptNL;DescriptNO;DescriptPL;DescriptPT;DescriptRU;DescriptSE;DescriptTR;DescriptUS;pcsDiagramSymbols;usrDiagramSymbols;pcsDiagramPinData;usrDiagramPinData;pcsSingleLineSymbol;usrSingleLineSymbol;pcsInstSymbols;usrInstSymbols;pcsBusSymbols;usrBusSymbols;pcsPneuSymbols;usrPneuSymbols;pcsHydSymbols;usrHydSymbols;pcsPidSymbols;usrPidSymbols;pcsConplanSymbol;usrConplanSymbol;pcsMecSymbols;usrMecSymbols;pcsOptionalAccessories;usrOptionalAccessories;pcsFixedAccessories;usrFixedAccessories;usrPBSymbol;pcsPBSymbol;pcsCDimData;TechProperties;BuiltInDepth;Weight;UnitPerPack;UnitForUPP;CwCode;OrganizationNode1;OrganizationNode2;OrganizationNode3;usrOrganizationNode1;usrOrganizationNode2;usrOrganizationNode3;RefIDIec;RefIDAnsi;RefIDCustom;pcsComponentID;pcsComponentVersion;pcsComponentLastUpdate;pcsCheckSum;pcsInternalCheckedStatus
+.DbIndex 44;20;53;102;103;104;3;36;35;94;58;106;109;110;111;112;120;113;114;95;115;23;108;117;118;107;119;121;47;5;48;7;50;25;51;45;52;46;60;61;62;63;93;92;96;97;49;8;64;39;65;9;105;32;98;122;66;72;24;73;40;74;75;76;77;78;79;6;80;101;57;54;99;100;91
+
+
+.PCsCADSymbol #Empty 0 0 210010 148506 144 0 0 V23.0 "" -1 ""
+.arc 0 210000 148500 0 0 0 10 0 360 100 0 0 0 0 0 0 0
+.end
+
+
+.PageNo 1 1 '20-09-2023 11:34:10' 4 10000 1 0 300 1 0 16 0 0 0 210000 148500 0 A3|ISOA 420000 297000 -25000 -10000 -10000 -10000 0 -1
+.Born 2 2 23.0 1463049276
+
+
+
+
+.Refdata 1 1 70000 267500 10000 47500 7 1 1 A 40000 40000 8 6 57500 30000
+
+
+
+.Pagehead #Empty 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 -1 0 0
+.Typ 'PCSCHEMATIC Automation Skoleversjon. Må ikke anvendes kommersielt.' 1000 6100 0 0 0 40 0 6 900 16448 0 3 0 0 0 0 0 0 0 0
+.end
+
+
+.end
+
+.Objects V23.0
+.end
+
+.end
+

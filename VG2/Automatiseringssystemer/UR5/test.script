@@ -1,0 +1,6 @@
+global pose_wrt_feature = p[0.3,0.3,0.4,3.14,3.14,0]
+global feature_wrt_base = p[0.23,0.23,0.23,0,0,0]
+global pose_wrt_base = pose_trans(feature_wrt_base,pose_wrt_feature)
+
+movel(p[0.2,0.2,0,0,3.14,0], a=1.2, v=0.25, t=1, r=0)
+movel(p[0.4,0.2,0.4,0,3,3.14,0], a=1.2, v=0.25, t=1, r=0)

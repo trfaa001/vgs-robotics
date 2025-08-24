@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomizeFiles>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\analogValue\comp.xml" count="1">
+        <ComponentIDs>
+            <ComponentID>4917ac258fce1cb6febe</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\anavalue.js</File>
+        </Files>
+    </CustomizeComponent>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\rainbow\comp.xml" count="1">
+        <ComponentIDs>
+            <ComponentID>4f8f99cf583fc4d69d8d</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\rainbow.js</File>
+        </Files>
+    </CustomizeComponent>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\webcam\comp.xml" count="0">
+        <ComponentIDs/>
+        <Files>
+            <File>css\webcam.css</File>
+            <File>js\video.js</File>
+            <File>js\webcam.js</File>
+            <File>css\video.css</File>
+        </Files>
+    </CustomizeComponent>
+    <CustomizeComponent xmlFileName="C:\Program Files\lwe\lwe\buildInCustomizeComponents\trendView\comp.xml" count="1">
+        <ComponentIDs>
+            <ComponentID>47268b01ed2cf2f9904a</ComponentID>
+        </ComponentIDs>
+        <Files>
+            <File>js\trend.js</File>
+        </Files>
+    </CustomizeComponent>
+</CustomizeFiles>

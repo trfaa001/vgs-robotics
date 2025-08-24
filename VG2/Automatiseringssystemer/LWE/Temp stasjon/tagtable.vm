@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tVariableTable>
+    <variables>
+        <id>ee4d6539-2c08-4cf5-a7ed-dcc6bce6f1f6</id>
+        <name>Temp sensor</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="18">AI</blockType>
+        <blockNum realvalue="16">AI2</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+    <variables>
+        <id>0bb75a58-f69e-4a82-8b38-84c2d691b902</id>
+        <name>analogt ut</name>
+        <deviceName>Local Device</deviceName>
+        <blockType realvalue="19">AQ</blockType>
+        <blockNum realvalue="0">AQ1</blockNum>
+        <type realvalue="4">Word</type>
+        <length realvalue="1">1</length>
+    </variables>
+</tVariableTable>
